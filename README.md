@@ -1,4 +1,3 @@
-# README.md
 # Week 3 Assignment: Hands-On Lab — Name Splitter, Bug Hunt & First Decisions
 
 ## File Overview
